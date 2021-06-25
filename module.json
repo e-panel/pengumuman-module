@@ -1,0 +1,15 @@
+{
+    "name": "Pengumuman",
+    "alias": "pengumuman",
+    "description": "Module Pengumuman untuk E-Panel.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Pengumuman\\Providers\\PengumumanServiceProvider"
+    ],
+    "aliases": {
+        "Pengumuman": "Modules\\Pengumuman\\Entities\\Pengumuman"
+    },
+    "files": [],
+    "requires": []
+}

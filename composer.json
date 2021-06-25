@@ -1,0 +1,24 @@
+{
+    "name": "e-panel/pengumuman-module",
+    "type": "laravel-module", 
+    "description": "Module Pengumuman untuk E-Panel.",
+    "authors": [
+        {
+            "name": "Noviyanto Rahmadi",
+            "email": "novay@btekno.id"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Pengumuman\\": ""
+        }
+    }
+}
